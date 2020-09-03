@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vinny-scheduler/static/css/main.bb3db789.chunk.css",
+    "main.js": "/vinny-scheduler/static/js/main.92050609.chunk.js",
+    "main.js.map": "/vinny-scheduler/static/js/main.92050609.chunk.js.map",
+    "runtime-main.js": "/vinny-scheduler/static/js/runtime-main.5d7d5965.js",
+    "runtime-main.js.map": "/vinny-scheduler/static/js/runtime-main.5d7d5965.js.map",
+    "static/js/2.54df3f3c.chunk.js": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js",
+    "static/js/2.54df3f3c.chunk.js.map": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js.map",
+    "index.html": "/vinny-scheduler/index.html",
+    "precache-manifest.8c756c6d7bac496d8ebeb549cb74bdb9.js": "/vinny-scheduler/precache-manifest.8c756c6d7bac496d8ebeb549cb74bdb9.js",
+    "service-worker.js": "/vinny-scheduler/service-worker.js",
+    "static/css/main.bb3db789.chunk.css.map": "/vinny-scheduler/static/css/main.bb3db789.chunk.css.map",
+    "static/js/2.54df3f3c.chunk.js.LICENSE.txt": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7d5965.js",
+    "static/js/2.54df3f3c.chunk.js",
+    "static/css/main.bb3db789.chunk.css",
+    "static/js/main.92050609.chunk.js"
+  ]
+}
