@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vinny-scheduler/precache-manifest.360452c6905ccea46dfd3874c8b60b0c.js"
+  "/vinny-scheduler/precache-manifest.559040c1be13e617a727431e6d4537e7.js"
 );
 
 self.addEventListener('message', (event) => {
