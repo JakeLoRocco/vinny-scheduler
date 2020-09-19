@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vinny-scheduler/static/css/main.909395d1.chunk.css",
-    "main.js": "/vinny-scheduler/static/js/main.6109b30b.chunk.js",
-    "main.js.map": "/vinny-scheduler/static/js/main.6109b30b.chunk.js.map",
+    "main.js": "/vinny-scheduler/static/js/main.d8710e31.chunk.js",
+    "main.js.map": "/vinny-scheduler/static/js/main.d8710e31.chunk.js.map",
     "runtime-main.js": "/vinny-scheduler/static/js/runtime-main.5d7d5965.js",
     "runtime-main.js.map": "/vinny-scheduler/static/js/runtime-main.5d7d5965.js.map",
     "static/js/2.54df3f3c.chunk.js": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js",
     "static/js/2.54df3f3c.chunk.js.map": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js.map",
     "index.html": "/vinny-scheduler/index.html",
-    "precache-manifest.559040c1be13e617a727431e6d4537e7.js": "/vinny-scheduler/precache-manifest.559040c1be13e617a727431e6d4537e7.js",
+    "precache-manifest.247d944ccee79ca3b8a2fd2441747811.js": "/vinny-scheduler/precache-manifest.247d944ccee79ca3b8a2fd2441747811.js",
     "service-worker.js": "/vinny-scheduler/service-worker.js",
     "static/css/main.909395d1.chunk.css.map": "/vinny-scheduler/static/css/main.909395d1.chunk.css.map",
     "static/js/2.54df3f3c.chunk.js.LICENSE.txt": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5d7d5965.js",
     "static/js/2.54df3f3c.chunk.js",
     "static/css/main.909395d1.chunk.css",
-    "static/js/main.6109b30b.chunk.js"
+    "static/js/main.d8710e31.chunk.js"
   ]
 }

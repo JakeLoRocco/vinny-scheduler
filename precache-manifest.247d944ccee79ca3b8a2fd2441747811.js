@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a05706ddde59a55c254d03b420aaa69a",
+    "revision": "67767de73387bfdc80d7ddc77069ee12",
     "url": "/vinny-scheduler/index.html"
   },
   {
-    "revision": "f9bc40ef25156c4c7f81",
+    "revision": "c059fb99387aa06748b7",
     "url": "/vinny-scheduler/static/css/main.909395d1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vinny-scheduler/static/js/2.54df3f3c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9bc40ef25156c4c7f81",
-    "url": "/vinny-scheduler/static/js/main.6109b30b.chunk.js"
+    "revision": "c059fb99387aa06748b7",
+    "url": "/vinny-scheduler/static/js/main.d8710e31.chunk.js"
   },
   {
     "revision": "cd61ac3d949e919a9ae7",
